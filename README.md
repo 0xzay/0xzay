@@ -1,4 +1,3 @@
-<img width="150" align="center" src="https://thedise.me/src/images/hi.webp">
 <h3 align="center"Hi there! 👋</h3>
 
 <strong>Some info about me</strong>
