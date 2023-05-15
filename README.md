@@ -1,16 +1,22 @@
-### Hi there 👋
+<img width="150" align="center" src="https://thedise.me/src/images/hi.webp">
+<h3 align="center"Hi there! 👋</h3>
 
-<!--
-**hecudev/hecudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<strong>Some info about me</strong>
+- 🙋‍♂️ My name is **Alexander**
+- 🎂 I'm **19** years old
+- 💕 I am very passionate about **web3** and **crypto**, as well as **creating beautiful interfaces** and **interesting projects**
 
-Here are some ideas to get you started:
+<strong>Some info about my activity</strong>
+- 📚 I'm currently learning:
+  - **web3.js, ethers.js, @solana/web3.js**
+  - **Next.js**
+- 🏆 I've currently finished learning:
+   - **JavaScript, Typescript, HTML, CSS**
+   - **React.js**
+   - **TailwindCSS, SASS**
+   - **Redux, React Query**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong>Some info on how to contact me</strong>
+- 🌍 You can find me on websites
+  - **[Telegram](https://t.me/hecudev)**
+  - **[LinkedIn](https://linkedin.com/in/hecudev)**
