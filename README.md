@@ -29,7 +29,7 @@
 <p>
   
 - 🌍 You can find me on websites
-  - **[Telegram](https://t.me/hecudev)**
+  - **[Telegram](https://t.me/xzay0)**
   - **[LinkedIn](https://linkedin.com/in/hecudev)**
   
 </p></details>
