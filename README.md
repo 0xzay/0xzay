@@ -15,7 +15,7 @@
 <p>
   
 - 📚 I'm currently learning:
-  - **web3.js, ethers.js, @solana/web3.js**
+  - **Web3.js, ethers.js, @solana/web3.js**
   - **Next.js**
 - 🏆 I've currently finished learning:
    - **JavaScript, Typescript, HTML5, CSS**
