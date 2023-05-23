@@ -18,7 +18,7 @@
   - **web3.js, ethers.js, @solana/web3.js**
   - **Next.js**
 - 🏆 I've currently finished learning:
-   - **JavaScript, Typescript, HTML, CSS**
+   - **JavaScript, Typescript, HTML5, CSS**
    - **React.js**
    - **TailwindCSS, SASS**
    - **Redux, React Query**
