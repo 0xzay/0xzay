@@ -1,3 +1,4 @@
+![banner](https://github.com/0xzay/0xzay/assets/127613678/d01e5e06-49bf-4864-b564-ac8b5e329d2f)
 <h3 align="center">Hi there! 👋</h3>
 
 ***
@@ -7,7 +8,7 @@
 
 - 🙋‍♂️ My name is **Alexander**
 - 🎂 I'm **19** years old
-- 💕 I am very passionate about **web3** and **crypto**, as well as **creating beautiful interfaces** and **interesting projects**
+- 💕 I am very passionate about **web3** and **design**, as well as **creating beautiful interfaces** and **interesting projects**
   
 </p>
 
@@ -19,6 +20,7 @@
   - **Next.js**
 - 🏆 I've currently finished learning:
    - **JavaScript, Typescript, HTML5, CSS**
+   - **PostgreSQL**
    - **React.js**
    - **TailwindCSS, SASS**
    - **Redux, React Query**
