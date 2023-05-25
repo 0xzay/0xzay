@@ -15,11 +15,11 @@
 <p>
   
 - 📚 I'm currently learning:
-  - **Web3.js, ethers.js, @solana/web3.js**
+  - **Web3.js, Ethers.js, @solana/web3.js**
   - **Next.js**
 - 🏆 I've currently finished learning:
-   - **JavaScript, Typescript, HTML5, CSS**
-   - **PostgreSQL**
+   - **JavaScript, TypeScript, HTML5, CSS**
+   - **PostgreSQL, MongoDB, FireBase**
    - **React.js**
    - **TailwindCSS, SASS**
    - **Redux, React Query**
