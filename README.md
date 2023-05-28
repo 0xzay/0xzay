@@ -1,6 +1,4 @@
 
-***
-
 <strong>Some info about me</strong>
 <p>
 
