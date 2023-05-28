@@ -1,4 +1,3 @@
-![banner](https://github.com/0xzay/0xzay/assets/127613678/d01e5e06-49bf-4864-b564-ac8b5e329d2f)
 
 ***
 
