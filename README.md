@@ -26,7 +26,7 @@
 <strong>Some info on how to contact me</strong>
 <p>
   
-- 🌍 You can find me on
+- 🌍 You can find me in
   - **[Telegram](https://t.me/xzay0)**
   - **[LinkedIn](https://www.linkedin.com/in/0xzay)**
   - **0xzayeth@gmail.com**
