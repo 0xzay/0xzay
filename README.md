@@ -15,10 +15,11 @@
   - **Web3.js, Ethers.js, @solana/web3.js**
   - **Next.js**
 - 🏆 I've currently finished learning:
-   - **JavaScript, TypeScript, HTML5, CSS**
+   - **Javascript, Typescript, HTML5, CSS3**
+   - **Apollo, GraphQL, Webpack**
    - **PostgreSQL, MongoDB, FireBase**
-   - **React.js**
-   - **TailwindCSS, SASS**
+   - **React.js, Astro.js**
+   - **TailwindCSS, SASS, Bootstrap**
    - **Redux, React Query**
   
 </p></details>
