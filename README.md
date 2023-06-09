@@ -33,3 +33,5 @@
   - **0xzayeth@gmail.com**
   
 </p></details>
+
+[My personal page build on Astro](https://zaycevv-personal-page.vercel.app/)
