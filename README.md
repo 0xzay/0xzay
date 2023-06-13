@@ -30,6 +30,7 @@
 - 🌍 You can find me in
   - **[Telegram](https://t.me/zaycevv_a)**
   - **[LinkedIn](https://www.linkedin.com/in/zaycevv)**
+  - **[Dribbble](https://dribbble.com/zaycevv/shots)**
   - **0xzayeth@gmail.com**
   
 </p></details>
