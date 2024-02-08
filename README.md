@@ -10,7 +10,7 @@
     20 y.o crypto degen & developer
     <br>
     <br>
-  </samp>
+  
   
   <br>
   <br>
